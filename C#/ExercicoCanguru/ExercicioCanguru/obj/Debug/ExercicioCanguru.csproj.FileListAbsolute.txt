@@ -1,0 +1,7 @@
+C:\Users\rpugh\source\repos\ExercicoCanguru\ExercicioCanguru\bin\Debug\ExercicoCanguru.exe.config
+C:\Users\rpugh\source\repos\ExercicoCanguru\ExercicioCanguru\bin\Debug\ExercicoCanguru.exe
+C:\Users\rpugh\source\repos\ExercicoCanguru\ExercicioCanguru\bin\Debug\ExercicoCanguru.pdb
+C:\Users\rpugh\source\repos\ExercicoCanguru\ExercicioCanguru\obj\Debug\ExercicioCanguru.csprojResolveAssemblyReference.cache
+C:\Users\rpugh\source\repos\ExercicoCanguru\ExercicioCanguru\obj\Debug\ExercicioCanguru.csproj.CoreCompileInputs.cache
+C:\Users\rpugh\source\repos\ExercicoCanguru\ExercicioCanguru\obj\Debug\ExercicoCanguru.exe
+C:\Users\rpugh\source\repos\ExercicoCanguru\ExercicioCanguru\obj\Debug\ExercicoCanguru.pdb
